@@ -15,9 +15,5 @@ public class Main {
         System.out.println(num1+num2+num3);
     }
 }
-class Potato{
-    public int brazos=0;
-    public void QuitarBrazo(){
-        this.brazos--;
-    }
+
 }
